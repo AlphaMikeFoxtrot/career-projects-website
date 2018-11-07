@@ -1,0 +1,25 @@
+.right-navigation {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+}
+
+.my-btn-group {
+  margin-right: 15px;
+}
+
+.logo-icon {
+  height: 70px;
+  margin-right: 8px;
+}
+
+.my-header a {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+* {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
